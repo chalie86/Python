@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bba13e-c7ab-40e1-bc6e-c5a85e267c45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pandas/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pandas/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pandas/.idea/pandas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pandas/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pandas/pandaidx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie/movie-system/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie/movie-system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie/movie-system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/exception.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exception.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="220">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -85,6 +79,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,8 +162,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/exception.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

@@ -18,4 +18,6 @@ except ValueError:
  else:
       if (num1 < 0 or num2 < 0):
           print("Negative number is entered")
+finally:
+   print("this statement will always be executed")
 print("the program has finished")
