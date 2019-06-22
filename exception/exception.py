@@ -21,3 +21,11 @@ except ValueError:
 finally:
    print("this statement will always be executed")
 print("the program has finished")
+
+
+
+def sqrt(num):
+    if(num <= 0 ):
+        raise ValueError("You should write a positive number")
+    else:
+        return num  ** 00.5
