@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$/ecommerce/OnlineStore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flask/mysite/MyApp" vcs="Git" />
+=======
+>>>>>>> e35e4b924c72d253787a77554453a79b4a9caa63
+  </component>
+</project>
