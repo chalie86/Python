@@ -10,5 +10,10 @@
 <body>
 <h1>This my first template</h1>
 
+
+{% for book in books %}
+<h2>{{book.title}}</h2>
+{% end for %}
+
 </body>
 </html>
